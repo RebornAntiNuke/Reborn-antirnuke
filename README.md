@@ -1,4 +1,4 @@
-# Reborn-antirnuke
+# Reborn-AntiNuke
 an antinuke developed in python 
 
 # `has antinuke features like:`
